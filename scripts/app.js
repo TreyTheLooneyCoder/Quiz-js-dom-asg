@@ -44,6 +44,7 @@ colorBtn.addEventListener("click", function(event){
 });
 
 resetBtn.addEventListener('click', function(event){
+    // Reloads the page on click of this button.
     window.location.reload();
 });
 
